@@ -17,8 +17,8 @@ If you are a B2B Agency, Consultant, or High-Ticket Service Provider, I build th
 
 ## 📊 Proven Results
 
-✅ +123K Active Users Managed
-✅ +766K Tracked Events Optimized
+✅ +123K Active Users Managed </br>
+✅ +766K Tracked Events Optimized </br>
 ✅ +25% Average Increase in New Visitor Conversion
 
 ---
@@ -43,9 +43,9 @@ Custom LLM agents that qualify leads, handle complex questions, and book meeting
 
 ## 🛠️ Strategic Tech Stack
 
-▸ Frontend & Performance: Next.js, React, Astro, Tailwind CSS, TypeScript
-▸ Automation & CRM: GoHighLevel (GHL), n8n, Zapier, WhatsApp Business API
-▸ AI Intelligence: OpenAI SDK, Vercel AI, Custom LLM Agents, Intelligent Workflows
+▸ Frontend & Performance: Next.js, React, Astro, Tailwind CSS, TypeScript </br>
+▸ Automation & CRM: GoHighLevel (GHL), n8n, Zapier, WhatsApp Business API </br>
+▸ AI Intelligence: OpenAI SDK, Vercel AI, Custom LLM Agents, Intelligent Workflows </br>
 ▸ Tracking & ROI: Google Analytics 4, GTM, Meta Pixel, Conversion API (CAPI)
 
 ---
@@ -62,6 +62,6 @@ Click **Invite to Job** or **Message**, and let’s talk about your ROI goals. �
 
 ---
 
-🌐 Website: [https://www.varmiguemunoz.com](https://www.varmiguemunoz.com)
-💬 Growthlyfast: [https://www.growthlyfast.com](https://www.growthlyfast.com)
+🌐 Website: [https://www.varmiguemunoz.com](https://www.varmiguemunoz.com) </br>
+💬 Growthlyfast: [https://www.growthlyfast.com](https://www.growthlyfast.com) </br>
 💼 Upwork: [https://www.upwork.com/freelancers/~01c50c885bdb2a6b44?mp_source=share](https://www.upwork.com/freelancers/~01c50c885bdb2a6b44?mp_source=share)
