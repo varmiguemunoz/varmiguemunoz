@@ -1,8 +1,10 @@
 <div align="center">
   <img 
-    src="https://res.cloudinary.com/dy7kvvzgj/image/upload/v1767573832/banner_varmiguemunoz_rur61k.png"
-    alt="Miguel Angel Jaramillo Muñoz – AI Sales Engineer & Growth Systems Architect"
-    style="max-height:400px; width:100%; object-fit:cover; border-radius:20px;"
+    src="https://res.cloudinary.com/dy7kvvzgj/image/upload/v1767575288/varmiguemunoz-banner-github_1_qapjwk.png"
+    alt="varmiguemunoz – AI Sales Engineer & Growth Systems Architect"
+    style="max-height:300px; width:100%; object-fit:cover; border-radius:20px; height:auto;"
+    height="400"
+    width="100%"
   />
 </div>
 
