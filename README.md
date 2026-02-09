@@ -8,59 +8,118 @@
   />
 </div>
 
+# ⚡ Senior Full-Stack Engineer | AI Automation & Scalable Systems
 
-# 🚀 AI Sales Engineer & Growth Systems Architect | Scaling B2B Agencies & Startups
-
-Stop wasting your marketing budget on static websites that don't convert. I architect automated sales ecosystems that turn cold traffic into qualified revenue, combining high-end full-stack development with AI-powered automation. 🤖
-
-If you are a B2B Agency, Consultant, or High-Ticket Service Provider, I build the technical infrastructure you need to eliminate manual grunt work and scale your sales process with precision. 💻
+I don't just "integrate AI" I architect complete systems that scale. While others create automations with N8N or apps with vibe coding, I build enterprise-grade infrastructure using Go (Golang) and Node for backend + Next.js for frontend + Custom AI agents.
 
 ---
 
-## 📊 Proven Results
+## 🚀 WHAT MAKES ME DIFFERENT
 
-✅ +123K Active Users Managed </br>
-✅ +766K Tracked Events Optimized </br>
-✅ +25% Average Increase in New Visitor Conversion
+I'm a solo engineer who builds complete tech startups from scratch:
 
----
+✅ Built and scaled mental health AI app to 7K+ active users  
+✅ Created AI agent platform (Growthly AI) → Processing 1000+ WhatsApp conversations/day  
+✅ Shipped 15+ production AI systems handling 10K+ operations/day
 
-## 🎯 The GrowthKit™: Your All-in-One Sales Infrastructure
-
-I don’t just “build websites”. I deliver a 100% personalized technical solution designed to organize, optimize, and scale your entire commercial process.
-
-🌐 High-Performance Conversion Engines
-Next-level web experiences optimized for speed, SEO, and lead capture, fully integrated with your marketing stack.
-
-🧩 Bespoke CRM Architecture
-Centralized lead management, intelligent segmentation, and automated reporting so no opportunity slips through the cracks.
-
-⚙️ Multi-Channel Sales Automation
-Behavior-based nurturing and follow-up sequences across Email, SMS, and WhatsApp.
-
-🤖 24/7 AI Sales Assistants
-Custom LLM agents that qualify leads, handle complex questions, and book meetings directly into your calendar.
+**I work at startup velocity with enterprise quality.**
 
 ---
 
-## 🛠️ Strategic Tech Stack
+## 🛠️ TECHNICAL CAPABILITIES
 
-▸ Frontend & Performance: Next.js, React, Astro, Tailwind CSS, TypeScript </br>
-▸ Automation & CRM: GoHighLevel (GHL), n8n, Zapier, WhatsApp Business API </br>
-▸ AI Intelligence: OpenAI SDK, Vercel AI, Custom LLM Agents, Intelligent Workflows </br>
-▸ Tracking & ROI: Google Analytics 4, GTM, Meta Pixel, Conversion API (CAPI)
+### AI Systems Architecture
+→ Custom AI agents for WhatsApp, voice, customer support  
+→ RAG systems for knowledge bases and document processing  
+→ Multi-agent orchestration for complex workflows  
+→ Production LLM integration (OpenAI, Claude, custom fine-tuning)
+
+### High-Performance Backend
+→ Go (Golang) microservices handling 10K+ requests/min  
+→ Real-time data processing with <100ms latency  
+→ Scalable architecture designed for 100X growth  
+→ Advanced API development and webhook systems
+
+### Enterprise Frontend
+→ Next.js 14/15 with Server Components  
+→ Real-time dashboards processing heavy data loads  
+→ Mobile-responsive interfaces (React Native when needed)  
+→ TypeScript for type-safe, maintainable code
+
+### Complete Integration Stack
+→ WhatsApp Business API, CRM systems, Analytics platforms  
+→ Payment gateways, Email automation, Voice systems  
+→ Custom connectors when off-the-shelf solutions fail  
+→ Infrastructure: AWS/GCP, Docker, CI/CD pipelines
 
 ---
 
-## 🤝 How to Work With Me
-📦 **Option 1: Ready-to-Deploy Solutions (Project Catalog)**
-Need a specific outcome fast? I offer pre-packaged, fixed-price solutions ready for immediate kickoff, including CRM setup, AI agent integration, automation systems, and conversion optimization.
+## 💼 WHAT I BUILD
 
-🤝 **Option 2: Strategic Partnership**
-Looking for a long-term partner to act as your Fractional Growth Engineer? 👷🏻‍♂️ I collaborate with agencies and founders to build, maintain, and scale their revenue systems over time. 🚀
+### Custom AI & Automation Solutions
+Complete systems built for scale. From WhatsApp AI agents to custom LLM orchestration.
 
-Ready to turn your digital presence into a revenue-generating machine? 🚨
-Click **Invite to Job** or **Message**, and let’s talk about your ROI goals. 👇🏻
+**Examples:** Lead qualification bots, Customer support automation, Multi-agent workflows  
+**Timeline:** 2-6 weeks | Fixed-price or Hourly available
+
+### High-Performance Backend & Scalability
+Migrating brittle scripts to robust Go (Golang) infrastructure to handle 10X traffic.
+
+**Examples:** API optimization, Database performance tuning, Real-time data processing  
+**Timeline:** 1-4 weeks | Ideal for growing startups
+
+### Marketing Tech Infrastructure
+Not "Zapier connections" — actual engineered systems that don't break under load.
+
+**Examples:** Retargeting automation, Email AI optimization, Multi-platform integration  
+**Timeline:** 2-5 weeks | Fixed-price or Hourly available
+
+### Tech Startup MVPs
+Full-stack applications built for scale from day one.
+
+**Examples:** SaaS platforms, Mobile apps, AI-first products  
+**Timeline:** 4-12 weeks | Flexible engagement models
+
+---
+
+## 🎯 IDEAL CLIENTS
+
+You're a founder, CEO, or technical leader who needs:
+
+→ Production-ready AI systems (not experiments)  
+→ Architecture that scales without breaking  
+→ One engineer who can build the entire stack  
+→ Startup speed with enterprise reliability
+
+I work on projects of all sizes — from quick optimizations to complete platform builds.
+
+---
+
+## 🔧 CORE STACK
+
+**Backend:** Go (Golang), Node.js when needed  
+**Frontend:** Next.js 14/15, React, TypeScript, Tailwind CSS  
+**AI:** OpenAI API, Anthropic Claude, Custom LLM fine-tuning  
+**Mobile:** React Native, Flutter  
+**Infrastructure:** AWS, GCP, Docker, Kubernetes  
+**Databases:** PostgreSQL, MongoDB, Redis
+
+---
+
+## ⚡ LET'S BUILD
+
+📩 Click on the links below and I'll show you:
+
+1. Exactly where SaaS tools are failing you
+2. How custom engineering will fix it
+3. A technical proposal with clear timeline and pricing
+
+**You'll get a detailed assessment within 48 hours** — whether we work together or not.
+
+### Recent projects:
+→ Mental health AI app scaled to 7K+ active users  
+→ AI platform (WhatsApp AI agents at scale)  
+→ Marketing automation with 50%+ email performance increase
 
 ---
 
