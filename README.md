@@ -1,128 +1,106 @@
 <div align="center">
   <img 
     src="https://res.cloudinary.com/dy7kvvzgj/image/upload/v1778356573/tree-art_c6u8xe.png"
-    alt="varmiguemunoz – AI Sales Engineer & Growth Systems Architect"
+    alt="Miguel Angel Jaramillo – Senior Full-Stack Engineer"
     style="max-height:500px; width:100%; object-fit:cover; border-radius:50px; height:auto;"
     height="400"
     width="100%"
   />
 </div>
 
-# ⚡ Senior Full-Stack Engineer | AI Automation & Scalable Systems
+<h1 align="center">⚡ Senior Full-Stack Engineer</h1>
+<p align="center"><strong>AI Automation · Scalable Systems · Startup to Enterprise</strong></p>
 
-I don't just "integrate AI" I architect complete systems that scale. While others create automations with N8N or apps with vibe coding, I build enterprise-grade infrastructure using Go (Golang) and Node for backend + Next.js for frontend + Custom AI agents.
-
----
-
-## 🚀 WHAT MAKES ME DIFFERENT
-
-I'm a solo engineer who builds complete tech startups from scratch:
-
-✅ Built and scaled mental health AI app to 7K+ active users  
-✅ Created AI agent platform (Growthly AI) → Processing 1000+ WhatsApp conversations/day  
-✅ Shipped 15+ production AI systems handling 10K+ operations/day
-
-**I work at startup velocity with enterprise quality.**
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
 
 ---
 
-## 🛠️ TECHNICAL CAPABILITIES
-
-### AI Systems Architecture
-→ Custom AI agents for WhatsApp, voice, customer support  
-→ RAG systems for knowledge bases and document processing  
-→ Multi-agent orchestration for complex workflows  
-→ Production LLM integration (OpenAI, Claude, custom fine-tuning)
-
-### High-Performance Backend
-→ Go (Golang) microservices handling 10K+ requests/min  
-→ Real-time data processing with <100ms latency  
-→ Scalable architecture designed for 100X growth  
-→ Advanced API development and webhook systems
-
-### Enterprise Frontend
-→ Next.js 14/15 with Server Components  
-→ Real-time dashboards processing heavy data loads  
-→ Mobile-responsive interfaces (React Native when needed)  
-→ TypeScript for type-safe, maintainable code
-
-### Complete Integration Stack
-→ WhatsApp Business API, CRM systems, Analytics platforms  
-→ Payment gateways, Email automation, Voice systems  
-→ Custom connectors when off-the-shelf solutions fail  
-→ Infrastructure: AWS/GCP, Docker, CI/CD pipelines
+> *While others build automations with no-code tools, I architect complete systems that scale — Go backend · Next.js frontend · Custom AI agents.*
 
 ---
 
-## 💼 WHAT I BUILD
+## 🏆 Track record
 
-### Custom AI & Automation Solutions
-Complete systems built for scale. From WhatsApp AI agents to custom LLM orchestration.
+| Metric | Result |
+|---|---|
+| 🧠 Mental health AI app | **7K+ active users** |
+| 💬 Growthly AI (WhatsApp agents) | **1,000+ conversations/day** |
+| ⚙️ Production AI systems shipped | **15+ handling 10K+ ops/day** |
 
-**Examples:** Lead qualification bots, Customer support automation, Multi-agent workflows  
-**Timeline:** 2-6 weeks | Fixed-price or Hourly available
-
-### High-Performance Backend & Scalability
-Migrating brittle scripts to robust Go (Golang) infrastructure to handle 10X traffic.
-
-**Examples:** API optimization, Database performance tuning, Real-time data processing  
-**Timeline:** 1-4 weeks | Ideal for growing startups
-
-### Marketing Tech Infrastructure
-Not "Zapier connections" — actual engineered systems that don't break under load.
-
-**Examples:** Retargeting automation, Email AI optimization, Multi-platform integration  
-**Timeline:** 2-5 weeks | Fixed-price or Hourly available
-
-### Tech Startup MVPs
-Full-stack applications built for scale from day one.
-
-**Examples:** SaaS platforms, Mobile apps, AI-first products  
-**Timeline:** 4-12 weeks | Flexible engagement models
+**Startup velocity. Enterprise quality. Solo execution.**
 
 ---
 
-## 🎯 IDEAL CLIENTS
+## 🛠️ What I build
 
-You're a founder, CEO, or technical leader who needs:
+### 🤖 AI Systems
+Custom agents for WhatsApp, voice & support · RAG knowledge bases · Multi-agent orchestration · Production LLM integration (OpenAI, Claude, fine-tuning)
 
-→ Production-ready AI systems (not experiments)  
-→ Architecture that scales without breaking  
-→ One engineer who can build the entire stack  
-→ Startup speed with enterprise reliability
+### ⚙️ High-Performance Backend
+Go microservices at 10K+ req/min · Real-time processing under 100ms · Scalable architecture for 100X growth · Advanced APIs & webhook systems
 
-I work on projects of all sizes — from quick optimizations to complete platform builds.
+### 🖥️ Enterprise Frontend
+Next.js 14/15 with Server Components · Real-time heavy-data dashboards · TypeScript for maintainable code · React Native when mobile is needed
 
----
-
-## 🔧 CORE STACK
-
-**Backend:** Go (Golang), Node.js when needed  
-**Frontend:** Next.js 14/15, React, TypeScript, Tailwind CSS  
-**AI:** OpenAI API, Anthropic Claude, Custom LLM fine-tuning  
-**Mobile:** React Native, Flutter  
-**Infrastructure:** AWS, GCP, Docker, Kubernetes  
-**Databases:** PostgreSQL, MongoDB, Redis
+### 🔗 Integration Stack
+WhatsApp Business API · CRM & analytics platforms · Payment gateways · Email & voice automation · AWS/GCP · Docker · CI/CD
 
 ---
 
-## ⚡ LET'S BUILD
+## 💼 Services
 
-📩 Click on the links below and I'll show you:
-
-1. Exactly where SaaS tools are failing you
-2. How custom engineering will fix it
-3. A technical proposal with clear timeline and pricing
-
-**You'll get a detailed assessment within 48 hours** — whether we work together or not.
-
-### Recent projects:
-→ Mental health AI app scaled to 7K+ active users  
-→ AI platform (WhatsApp AI agents at scale)  
-→ Marketing automation with 50%+ email performance increase
+| 🚀 | What | Timeline |
+|---|---|---|
+| **Custom AI & Automation** | WhatsApp bots, LLM orchestration, lead qualification, support automation | 2–6 weeks |
+| **Backend & Scalability** | Go migration, API optimization, DB tuning, real-time processing | 1–4 weeks |
+| **Marketing Tech** | Engineered retargeting, AI email optimization, multi-platform systems | 2–5 weeks |
+| **Startup MVPs** | Full-stack SaaS, mobile apps, AI-first products built to scale from day one | 4–12 weeks |
 
 ---
 
-🌐 Website: [https://www.varmiguemunoz.com](https://www.varmiguemunoz.com) </br>
-💬 Growthlyfast: [https://www.growthlyfast.com](https://www.growthlyfast.com) </br>
-💼 Upwork: [https://www.upwork.com/freelancers/~01c50c885bdb2a6b44?mp_source=share](https://www.upwork.com/freelancers/~01c50c885bdb2a6b44?mp_source=share)
+## 🎯 You need me if...
+
+→ You want **production-ready AI**, not experiments  
+→ Your architecture **breaks under load** and needs a real fix  
+→ You need **one engineer** who can own the entire stack  
+→ You demand **startup speed** without sacrificing reliability
+
+---
+
+## 🔧 Core stack
+
+```txt
+Backend        Go (Golang) · Node.js
+Frontend       Next.js 14/15 · React · TypeScript · Tailwind CSS
+AI             OpenAI · Anthropic Claude · Custom LLM fine-tuning
+Mobile         React Native · Flutter
+Infrastructure AWS · GCP · Docker · Kubernetes
+Databases      PostgreSQL · MongoDB · Redis
+```
+
+---
+
+## 📩 Let's build something
+
+Send me a message and I'll deliver within **48 hours**:
+
+1. 🔍 Where your current tools are failing you
+2. 🛠️ Exactly how custom engineering fixes it
+3. 📋 A technical proposal with timeline & pricing
+
+**Whether we work together or not — you'll walk away with clarity.**
+
+---
+
+### 🔗 Links
+
+🌐 [varmiguemunoz.com](https://www.varmiguemunoz.com) &nbsp;·&nbsp;
+💬 [tuvendedor24.com](https://www.tuvendedor24.com) &nbsp;·&nbsp;
+💼 [Upwork Profile](https://www.upwork.com/freelancers/~01c50c885bdb2a6b44?mp_source=share)
