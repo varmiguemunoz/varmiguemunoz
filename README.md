@@ -1,8 +1,8 @@
 <div align="center">
   <img 
-    src="https://res.cloudinary.com/dy7kvvzgj/image/upload/v1767575288/varmiguemunoz-banner-github_1_qapjwk.png"
+    src="https://res.cloudinary.com/dy7kvvzgj/image/upload/v1778356573/tree-art_c6u8xe.png"
     alt="varmiguemunoz – AI Sales Engineer & Growth Systems Architect"
-    style="max-height:300px; width:100%; object-fit:cover; border-radius:20px; height:auto;"
+    style="max-height:500px; width:100%; object-fit:cover; border-radius:50px; height:auto;"
     height="400"
     width="100%"
   />
