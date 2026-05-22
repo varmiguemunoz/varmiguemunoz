@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://res.cloudinary.com/dy7kvvzgj/image/upload/v1778356573/tree-art_c6u8xe.png"
+    src="https://res.cloudinary.com/dy7kvvzgj/image/upload/v1779448465/pixel-art_zpibmf.png"
     alt="Miguel Angel Jaramillo – Senior Full-Stack Engineer"
     style="max-height:500px; width:100%; object-fit:cover; border-radius:50px; height:auto;"
     height="400"
@@ -8,7 +8,7 @@
   />
 </div>
 
-<h1 align="center">⚡ Senior Full-Stack Engineer</h1>
+<h1 align="center">⚡️ Senior Full-Stack Software Engineer</h1>
 <p align="center"><strong>AI Automation · Scalable Systems · Startup to Enterprise</strong></p>
 
 <p align="center">
@@ -22,85 +22,67 @@
 
 ---
 
-> *While others build automations with no-code tools, I architect complete systems that scale — Go backend · Next.js frontend · Custom AI agents.*
+> *15+ production systems in market. 10,000+ operations/day. One engineer who builds what startups, agencies, and business owners need to scale.*
+---
+
+I'm Miguel — **Senior Full-Stack Engineer based in Medellín.** 🇨🇴
+
+For 5 years I've been building the backend infrastructure, AI systems, and full-stack products that founders and operators need to run at production load.
+
+**Not demos. Not templates. Systems that work under real traffic.**
 
 ---
 
-## 🏆 Track record
+## 🚀 What I've Shipped
 
-| Metric | Result |
-|---|---|
-| 🧠 Mental health AI app | **7K+ active users** |
-| 💬 Growthly AI (WhatsApp agents) | **1,000+ conversations/day** |
-| ⚙️ Production AI systems shipped | **15+ handling 10K+ ops/day** |
-
-**Startup velocity. Enterprise quality. Solo execution.**
+→ **Mental health AI app** scaled to **7,000+ active users**  
+→ **WhatsApp AI agent platform** processing **1,000+ conversations/day**  
+→ **Go microservices** handling **10,000+ req/min** at **sub-100ms latency**
 
 ---
 
-## 🛠️ What I build
+## 🤝 Who I Work With
 
-### 🤖 AI Systems
-Custom agents for WhatsApp, voice & support · RAG knowledge bases · Multi-agent orchestration · Production LLM integration (OpenAI, Claude, fine-tuning)
+I work with three types of clients.
 
-### ⚙️ High-Performance Backend
-Go microservices at 10K+ req/min · Real-time processing under 100ms · Scalable architecture for 100X growth · Advanced APIs & webhook systems
+### 🏢 Business Owners Automating Their Operations
 
-### 🖥️ Enterprise Frontend
-Next.js 14/15 with Server Components · Real-time heavy-data dashboards · TypeScript for maintainable code · React Native when mobile is needed
+Sales pipelines, financial workflows, internal processes.
 
-### 🔗 Integration Stack
-WhatsApp Business API · CRM & analytics platforms · Payment gateways · Email & voice automation · AWS/GCP · Docker · CI/CD
+Built so the business runs without depending on any one person.
 
----
+**Not Zapier flows. Engineered infrastructure.**
 
-## 💼 Services
+### 🏗️ Agencies That Need Real Tech Infrastructure
 
-| 🚀 | What | Timeline |
-|---|---|---|
-| **Custom AI & Automation** | WhatsApp bots, LLM orchestration, lead qualification, support automation | 2–6 weeks |
-| **Backend & Scalability** | Go migration, API optimization, DB tuning, real-time processing | 1–4 weeks |
-| **Marketing Tech** | Engineered retargeting, AI email optimization, multi-platform systems | 2–5 weeks |
-| **Startup MVPs** | Full-stack SaaS, mobile apps, AI-first products built to scale from day one | 4–12 weeks |
+Automation flows, GHL setups, landing pages, white-label products, and backend systems your team can deploy across accounts.
+
+### 🚀 Startups Building Serious Products
+
+Full-stack SaaS, AI-first applications, scalable Go backends, and multi-agent systems built to survive real load and grow without rewrites.
 
 ---
 
-## 🎯 You need me if...
+## 🔧 My Stack
 
-→ You want **production-ready AI**, not experiments  
-→ Your architecture **breaks under load** and needs a real fix  
-→ You need **one engineer** who can own the entire stack  
-→ You demand **startup speed** without sacrificing reliability
-
----
-
-## 🔧 Core stack
-
-```txt
-Backend        Go (Golang) · Node.js
-Frontend       Next.js 14/15 · React · TypeScript · Tailwind CSS
-AI             OpenAI · Anthropic Claude · Custom LLM fine-tuning
-Mobile         React Native · Flutter
-Infrastructure AWS · GCP · Docker · Kubernetes
-Databases      PostgreSQL · MongoDB · Redis
-```
+🐹 Go  
+🟢 Node.js  
+🏗️ NestJS  
+⚡ Next.js 15  
+🔷 TypeScript  
+🤖 OpenAI  
+🧠 Anthropic Claude  
+📚 RAG  
+☁️ AWS  
+🐳 Docker  
+☸️ Kubernetes  
+🐘 PostgreSQL  
+⚡ Redis
 
 ---
 
-## 📩 Let's build something
+## 📩 Work With Me
 
-Send me a message and I'll deliver within **48 hours**:
+If you're automating your business, scaling your agency's delivery, or building your startup — send me two lines about what you're working on.
 
-1. 🔍 Where your current tools are failing you
-2. 🛠️ Exactly how custom engineering fixes it
-3. 📋 A technical proposal with timeline & pricing
-
-**Whether we work together or not — you'll walk away with clarity.**
-
----
-
-### 🔗 Links
-
-🌐 [varmiguemunoz.com](https://www.varmiguemunoz.com) &nbsp;·&nbsp;
-💬 [tuvendedor24.com](https://www.tuvendedor24.com) &nbsp;·&nbsp;
-💼 [Upwork Profile](https://www.upwork.com/freelancers/~01c50c885bdb2a6b44?mp_source=share)
+**I'll respond with a direct assessment within 24 hours.**
